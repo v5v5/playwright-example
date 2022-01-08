@@ -1,4 +1,4 @@
-# hillel-qa-auto-playwright
+# playwright-example
 
 ## Basic Setup
 
@@ -9,3 +9,18 @@
 
 - `npm i` to install all
 - `npx playwright test` to run tests
+
+## Create new npm project
+- `npm init`
+
+## Playwright 'Getting started'
+https://playwright.dev/docs/intro
+
+## Install playwright
+npm i -D @playwright/test
+
+## Install supported browsers
+npx playwright install
+
+## Install TypeScript
+npm install typescript
