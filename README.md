@@ -1,6 +1,6 @@
 # playwright-example
 
-## Basic Setup
+## Install Node.js
 
 - User needs node.js and npm in their machine
   node.js download - https://nodejs.org
